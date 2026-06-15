@@ -1,0 +1,155 @@
+learner_id,first_name,last_name,cohort,matriculation_year,email,status
+vu0145,Mira,Kim,,2024,mira.kim@vumc.example.edu,Active
+vu0048,Asher,Johnson, 2026,2022,asher.johnson@vumc.example.edu,Active
+VU0144,Leah,Müller,2028,2024,leah.müller@vumc.example.edu,Active
+52,Nina,Hassan,2026,2022,nina.hassan@vumc.example.edu,Active
+VU0087,Omar,Rivera,Class of 2027,,omar.rivera@vumc.example.edu,Active
+VU0026,Ezra,Becker,2025,2021,ezra.becker@vumc.example.edu,Withdrawn
+VU0127,Sam,Williams,2028,2024,sam.williams@vumc.example.edu,Active
+VU0014,Rohan,Chen,2025,2021,rohan.chen@vumc.example.edu,Active
+VU0081,Aanya,Fischer,2027,2023,aanya.fischer@vumc.example.edu,Active
+VU0089,Felix,Walsh,Class of 2027,2023,felix.walsh@vumc.example.edu,Active
+VU0135,Dia,Singh,2028,2024,dia.singh@vumc.example.edu,Active
+122,Mira,Johnson,2028,2024,mira.johnson@vumc.example.edu,Active
+VU0095,Nora,Garcia,2027,2023,nora.garcia@vumc.example.edu,Active
+VU0114,Mateo,Costa,2027,2023,mateo.costa@vumc.example.edu,Active
+VU0143,Aanya,Garcia,2028,2024,aanya.garcia@vumc.example.edu,Active
+VU0139,Mateo,Singh,2028,2024,mateo.singh@vumc.example.edu,Active
+VU-0024,Hana,Reed,2025,2021,hana.reed@vumc.example.edu,Active
+VU0047,Jonas,Walsh,2026,2022,jonas.walsh@vumc.example.edu,Active
+VU0078,Jonas,Khan,2027,2023,jonas.khan@vumc.example.edu,Active
+VU0036,Ravi,Park,2025,2021,ravi.park@vumc.example.edu,Active
+VU0138,Ezra,Johnson,2028,2024,ezra.johnson@vumc.example.edu,Active
+VU-0033,Mateo,Nguyen,Class of 2025,,mateo.nguyen@vumc.example.edu,Active
+VU0060,Lena,Fischer, 2026,2022,lena.fischer@vumc.example.edu,Active
+VU0132,Caleb,Reed,2028,2024,caleb.reed@vumc.example.edu,Active
+VU0022,Kai,Lopez,2025,2021,kai.lopez@vumc.example.edu,Active
+VU0054,Zoe,Walsh,2026,2022,zoe.walsh@vumc.example.edu,Active
+VU0066,Tobias,Garcia, 2026,2022,tobias.garcia@vumc.example.edu,Active
+VU-0142,Dia,Levi,2028,2024,dia.levi@vumc.example.edu,Active
+vu0101,Diego,Chen,2027,2023,diego.chen@vumc.example.edu,Active
+15,Aanya,Khan,2025,2021,aanya.khan@vumc.example.edu,Active
+vu0008,Emma,Kim,Class of 2025,2021,emma.kim@vumc.example.edu,Active
+VU0079,Priya,Williams,2027,2023,priya.williams@vumc.example.edu,Active
+vu0032,Omar,Haddad,C2025,2021,omar.haddad@vumc.example.edu,Active
+VU0093,Ben,Costa,2027,2023,ben.costa@vumc.example.edu,Active
+VU0115,Sofia,Park,,2024,sofia.park@vumc.example.edu,Active
+VU0136,Wei,Williams,2028,2024,wei.williams@vumc.example.edu,Active
+VU-0105,Ben,Singh,2027,2023,ben.singh@vumc.example.edu,Active
+VU0055,Nora,Costa, 2026,2022,nora.costa@vumc.example.edu,Active
+  VU0094  ,Theo,Johnson,Class of 2027,2023,theo.johnson@vumc.example.edu,Active
+VU0067,Noah,Park,2026,2022,noah.park@vumc.example.edu,Active
+VU-0027,Olivia,Walsh,Class of 2025,2021,olivia.walsh@vumc.example.edu,Active
+VU0080,Diego,Singh,2027,2023,diego.singh@vumc.example.edu,Active
+VU0016,Diego,Haddad,2025,2021,diego.haddad@vumc.example.edu,Active
+82,Hana,Tanaka,2027,2023,hana.tanaka@vumc.example.edu,Active
+VU0028,Aisha,Garcia,,2021,aisha.garcia@vumc.example.edu,Active
+VU0024,Hana,Reed,Class of 2025,2021,hana.reed@vumc.example.edu,Active
+VU0023,Yara,Jones,Class of 2025,2021,yara.jones@vumc.example.edu,Active
+VU0109,Caleb,Patel,2027,2023,caleb.patel@vumc.example.edu,Active
+VU-0004,Kai,Carter,2025,2021,kai.carter@vumc.example.edu,Active
+  VU0021  ,Emma,Hassan,Class of 2025,2021,emma.hassan@vumc.example.edu,Active
+VU0003,Ravi,Rivera,Class of 2025,,ravi.rivera@vumc.example.edu,Active
+vu0086,Sana,Jones,2027,2023,sana.jones@vumc.example.edu,Active
+VU0083,Maya,Tanaka,2027,2023,maya.tanaka@vumc.example.edu,Active
+VU0148,Aisha,Patel,2028,2024,aisha.patel@vumc.example.edu,Active
+134,Omar,Kim,2028,2024,omar.kim@vumc.example.edu,Active
+vu0029,Asher,Brown,2025 ,2021,asher.brown@vumc.example.edu,Active
+VU0125,Kai,Smith,2028,2024,kai.smith@vumc.example.edu,Active
+VU-0097,Tobias,Levi,Class of 2027,2023,tobias.levi@vumc.example.edu,Active
+VU0046,Ezra,Hassan,2026,2022,ezra.hassan@vumc.example.edu,Active
+VU0140,Asher,Smith,2028,2024,asher.smith@vumc.example.edu,Active
+VU0116,Caleb,Garcia,2028,2024,caleb.garcia@vumc.example.edu,Active
+VU0007,Sofia,Patel,2025 ,2021,sofia.patel@vumc.example.edu,Active
+VU0072,Aisha,Jones, 2026,2022,aisha.jones@vumc.example.edu,Active
+VU0056,Nina,Kim, 2026,2022,nina.kim@vumc.example.edu,Active
+VU0012,Dia,Williams,2025,2021,dia.williams@vumc.example.edu,Active
+110,Rohan,Becker,Class of 2027,2023,rohan.becker@vumc.example.edu,Active
+VU0037,Kai,Hassan,2025 ,,kai.hassan@vumc.example.edu,Active
+VU0113,Mateo,Haddad,2027,,mateo.haddad@vumc.example.edu,Active
+VU0009,Ravi,Tanaka,C2025,2021,ravi.tanaka@vumc.example.edu,Active
+vu0105,Ben,Singh,2027,2023,ben.singh@vumc.example.edu,Active
+VU0120,Dia,Rivera,2028,2024,dia.rivera@vumc.example.edu,Active
+VU-0146,Marcus,Costa,2028,2024,marcus.costa@vumc.example.edu,Active
+VU0106,Felix,Singh,Class of 2027,2023,felix.singh@vumc.example.edu,Active
+VU-0102,Felix,Park,Class of 2027,,felix.park@vumc.example.edu,Active
+vu0129,Noah,Carter,2028,2024,noah.carter@vumc.example.edu,Active
+VU0092,Liam,Smith,2027,2023,liam.smith@vumc.example.edu,Active
+VU0011,Asher,Kim,Class of 2025,9999,asher.kim@vumc.example.edu,Active
+VU0051,Sofia,Reed, 2026,2022,sofia.reed@vumc.example.edu,Active
+VU0044,Diego,Becker,Class of 2026,2022,diego.becker@vumc.example.edu,Active
+VU0034,Ravi,Khan,2025,2021,ravi.khan@vumc.example.edu,Active
+VU0104,Theo,Hassan,2027,2023,theo.hassan@vumc.example.edu,Active
+VU0010,Cleo,Patel,C2025,2021,cleo.patel@vumc.example.edu,Active
+VU0147,Noah,Cohen,2028,2024,noah.cohen@vumc.example.edu,Active
+VU0108,Ravi,Garcia,2027,2023,ravi.garcia@vumc.example.edu,Active
+19,Zoe,Khan,2025,2021,zoe.khan@vumc.example.edu,Active
+  VU0002  ,Jonas,Johnson,2025,2021,jonas.johnson@vumc.example.edu,Active
+VU0118,Jonas,Carter,2028,2024,jonas.carter@vumc.example.edu,Active
+VU0068,Olivia,Rivera, 2026,2022,olivia.rivera@vumc.example.edu,Active
+VU0103,Cleo,Williams,Class of 2027,2023,cleo.williams@vumc.example.edu,Active
+VU-0057,Tobias,Hassan,2026,2022,tobias.hassan@vumc.example.edu,Active
+VU0013,Ravi,Singh,2025 ,2021,ravi.singh@vumc.example.edu,Active
+VU0123,Mira,Reed,2028,2024,mira.reed@vumc.example.edu,Active
+VU0076,Olivia,Carter,Class of 2026,2022,olivia.carter@vumc.example.edu,Active
+VU0065,Wei,Tanaka, 2026,2022,wei.tanaka@vumc.example.edu,Active
+VU0017,Sam,Okafor,Class of 2025,2021,sam.okafor@vumc.example.edu,Active
+VU0005,Dia,Garcia,2025,2021,dia.garcia@vumc.example.edu,Active
+VU0064,Ben,Johnson, 2026,2022,ben.johnson@vumc.example.edu,Active
+VU0020,Caleb,Smith,2025,2021,caleb.smith@vumc.example.edu,Active
+VU0084,Kai,Park,2027,2023,kai.park@vumc.example.edu,Active
+VU0085,Theo,Levi,2027,2023,theo.levi@vumc.example.edu,Active
+VU0111,Ravi,Shah,Class of 2027,2023,ravi.shah@vumc.example.edu,Active
+VU0119,Tobias,Kim,2028,2024,tobias.kim@vumc.example.edu,Active
+VU0091,Nina,Müller,Class of 2027,2023,nina.müller@vumc.example.edu,Active
+VU-0061,Asher,Becker, 2026,1900,asher.becker@vumc.example.edu,Active
+VU0096,Emma,Fischer,Class of 2027,2023,emma.fischer@vumc.example.edu,Active
+vu0041,Zoe,Carter, 2026,2022,zoe.carter@vumc.example.edu,Active
+VU0006,Rohan,Williams,2025,2021,rohan.williams@vumc.example.edu,Active
+VU0053,Jonas,Garcia,2026,,jonas.garcia@vumc.example.edu,Active
+VU0100,Mira,Becker,2027,2023,mira.becker@vumc.example.edu,Active
+VU0030,Ivy,Costa,Class of 2025,2021,ivy.costa@vumc.example.edu,Active
+50,Noah,Johnson, 2026,2022,noah.johnson@vumc.example.edu,Active
+VU0074,Hana,Becker,Class of 2026,2022,hana.becker@vumc.example.edu,Active
+VU0031,Ben,Shah,2025,2021,ben.shah@vumc.example.edu,Active
+VU0090,Aanya,Jones,2027,2023,aanya.jones@vumc.example.edu,Active
+VU0025,Sofia,Fischer,2025,2021,sofia.fischer@vumc.example.edu,Active
+VU0112,Ravi,Patel,2027,2023,ravi.patel@vumc.example.edu,Active
+VU0042,Jonas,Haddad, 2026,2022,jonas.haddad@vumc.example.edu,Active
+VU0059,Hana,Rivera,2026,2022,hana.rivera@vumc.example.edu,Active
+VU0141,Noah,Novak,2028,2024,noah.novak@vumc.example.edu,Active
+VU0150,Ezra,Brown,2028,2024,ezra.brown@vumc.example.edu,Active
+VU-0098,Mateo,Khan,2027,2023,mateo.khan@vumc.example.edu,Active
+VU0137,Maya,Chen,2028,2024,maya.chen@vumc.example.edu,Active
+VU0043,Mateo,Jones,2026,2022,mateo.jones@vumc.example.edu,Active
+VU0045,Lena,Cohen,2026,2022,lena.cohen@vumc.example.edu,Active
+VU0062,Hana,Fischer, 2026,2022,hana.fischer@vumc.example.edu,Active
+VU0133,Kai,Johnson,2028,2024,kai.johnson@vumc.example.edu,Active
+vu0058,Ezra,Rivera, 2026,2022,ezra.rivera@vumc.example.edu,Active
+VU0039,Ben,Cohen, 2026,2022,ben.cohen@vumc.example.edu,Active
+VU0126,Sam,Lopez,2028,2024,sam.lopez@vumc.example.edu,Active
+VU0077,Dia,Khan,Class of 2026,2022,dia.khan@vumc.example.edu,Active
+VU-0073,Ezra,Tanaka,Class of 2026,2022,ezra.tanaka@vumc.example.edu,Active
+VU0001,Olivia,Patel,C2025,2021,olivia.patel@vumc.example.edu,Active
+VU-0069,Diego,Reed,Class of 2026,2022,diego.reed@vumc.example.edu,Active
+VU0130,Kai,Nguyen,2028,2024,kai.nguyen@vumc.example.edu,Active
+VU0088,Ben,Khan,2027,2023,ben.khan@vumc.example.edu,Active
+VU-0149,Aisha,Chen,2028,2024,aisha.chen@vumc.example.edu,Active
+VU0071,Mateo,Hassan,Class of 2026,2022,mateo.hassan@vumc.example.edu,Active
+VU0018,Jonas,Rivera,2025 ,2021,jonas.rivera@vumc.example.edu,Active
+VU0035,Priya,Garcia,C2025,2021,priya.garcia@vumc.example.edu,Active
+VU-0004,Kai,Carter,Class of 2025,2021,kai.carter@vumc.example.edu,Active
+VU0049,Nina,Levi,2026,2022,nina.levi@vumc.example.edu,Active
+vu0099,Wei,Rivera,Class of 2027,2023,wei.rivera@vumc.example.edu,Active
+VU0038,Jonas,Singh,2025 ,2021,jonas.singh@vumc.example.edu,Active
+VU-0142,Dia,Levi,2028,2024,dia.levi@vumc.example.edu,Active
+VU0117,Sana,Johnson,2028,2024,sana.johnson@vumc.example.edu,Active
+VU-0063,Rohan,Hassan,Class of 2026,2022,rohan.hassan@vumc.example.edu,Active
+vu0121,Nora,Shah,2028,2024,nora.shah@vumc.example.edu,Active
+VU0124,Leah,Kim,2028,2024,leah.kim@vumc.example.edu,Active
+VU0107,Olivia,Johnson,2027,2023,olivia.johnson@vumc.example.edu,Active
+VU0070,Sam,Jones,,2022,sam.jones@vumc.example.edu,Active
+VU0131,Marcus,Fischer,2028,2024,marcus.fischer@vumc.example.edu,Active
+vu0075,Aanya,Carter,Class of 2026,2022,aanya.carter@vumc.example.edu,Active
+VU0128,Ezra,Park,2028,2024,ezra.park@vumc.example.edu,Active
+VU0040,Ben,Lopez, 2026,2022,ben.lopez@vumc.example.edu,Active

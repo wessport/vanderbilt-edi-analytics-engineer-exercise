@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+AGENTS.md
+
+# Original prompt/archive files; source CSVs are committed from data/raw/
+EDI_Analytics_Engineer_Exercise.docx
+candidate_dataset.zip
+
+# Generated analytical outputs
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+data/processed/
+data/marts/
+
+# OS/editor
+.DS_Store
