@@ -109,8 +109,10 @@ follow-up rather than judgments about learners.
 
 ## Deploy on Render
 
-This repository includes a `render.yaml` blueprint for Render deployment. The
-settings mirror the Dash demo pattern used in the Geoalchemist examples:
+Live dashboard: <https://edi-analytics-eng-demo.onrender.com>.
+
+This repository includes a `render.yaml` blueprint for Render deployment with
+the required Dash app settings:
 
 - **Runtime:** Python
 - **Python version:** set by `.python-version`
